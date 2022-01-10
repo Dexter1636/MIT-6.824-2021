@@ -1,0 +1,8 @@
+## Lec1
+
+- MapReduce
+  - ![image-20220105153549639](assets/image-20220105153549639.png)
+  - ![image-20220105152235845](assets/image-20220105152235845.png)
+  - ![image-20220105154506177](assets/image-20220105154506177.png)
+  - ![image-20220105155051571](assets/image-20220105155051571.png)
+
