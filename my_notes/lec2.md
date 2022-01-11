@@ -190,6 +190,8 @@
 
 - KV server example (see *kv.go*)
 
+  - RPC package documentation: https://pkg.go.dev/net/rpc
+
   - ```go
     //
     // Client
